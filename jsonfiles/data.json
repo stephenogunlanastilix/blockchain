@@ -1,0 +1,11 @@
+
+[
+
+  {
+  "symbol": "BTC",
+  "amount_owned": 12,
+  "price_per_coin": 5000
+},
+  {"symbol": "BTC", "amount_owned": 12, "price_per_coin": 5000}
+  
+]
